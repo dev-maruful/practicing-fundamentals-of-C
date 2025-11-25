@@ -1,0 +1,6 @@
+Name			Mark	CGPA	Course
+Shadat			90		4.50	Math
+Badon			85		4.00	Physics
+Rokibul			95		4.80	Chemistry
+Moheet			88		4.23	Computer
+Fahim			75		3.50	Marketing
